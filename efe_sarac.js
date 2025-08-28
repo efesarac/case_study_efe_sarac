@@ -1,3 +1,10 @@
+// ebebek Case Study 
+// Author : A. Efe Saraç
+// Date   : 28.08.2025
+// Purpose: Tek dosyalık JS. İlk çalıştırmada JSON’dan veri çeker,
+//          sonraki çalıştırmalarda localStorage’dan okur.
+//          HTML + CSS tamamen JS ile oluşturulur, favoriler kaydedilir.
+
 (() => {
     //Settings
     const JSON_URL = "https://gist.githubusercontent.com/sevindi/8bcbde9f02c1d4abe112809c974e1f49/raw/9bf93b58df623a9b16f1db721cd0a7a539296cf0/products.json"
